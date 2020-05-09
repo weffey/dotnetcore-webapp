@@ -24,6 +24,7 @@ namespace dotnetcore_webapp.Pages
             "Server=myServerAddress;Database=shehackspurpledb;User Id=shehackspurple;Password=F4453213303DA61F20BD67FC233AA33262;";
             mynotsoprivatekey = mynotsoprivatekey + mynotsoprivatekconectionstring;
             /* Add logging of secrets later */ 
+            string mySecretKey2 = "E9873D79C6D87DC0FB6A5778633389_F4453213303DA61F20BD67FC233AA33262"
         }       
 
         public void OnGet()
